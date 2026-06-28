@@ -1,0 +1,35 @@
+{
+  "checks": [
+    {
+      "id": "IDS-01",
+      "ifc_entity": "IfcSpace",
+      "requirement": "at_least_one",
+      "level": 1,
+      "error_message": "No IfcSpace found"
+    },
+    {
+      "id": "IDS-02",
+      "ifc_entity": "IfcDoor",
+      "requirement": "at_least_one",
+      "level": 1,
+      "error_message": "No IfcDoor found"
+    },
+    {
+      "id": "IDS-03",
+      "ifc_entity": "IfcDoor",
+      "requirement": "at_least_one_fire_exit",
+      "level": 1,
+      "error_message": "No fire exit door found",
+      "fire_exit_properties": [
+        {
+          "pset": "Pset_DoorCommon",
+          "property": "FireExit"
+        },
+        {
+          "pset": "any",
+          "property": "FireExit"
+        }
+      ]
+    }
+  ]
+}

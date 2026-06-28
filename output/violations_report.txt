@@ -1,0 +1,134 @@
+============================================================
+SCIE FIRE EVACUATION COMPLIANCE REPORT
+============================================================
+Generated:  2026-06-28 12:20:28
+Regulation: RT-SCIE (Portaria 1532/2008 + 135/2020)
+------------------------------------------------------------
+Total spaces checked: 18
+Compliant:            6
+Violations found:     12
+============================================================
+
+ISSUE #1
+  Rule:     SCIE-UT-I-ART57
+  Space:    Store Room
+  Space ID: 2fiS2IeUTAWgXfk0wYKcZW
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 19.08 m
+  Limit:    15 m
+  Excess:   +4.08 m
+
+ISSUE #2
+  Rule:     SCIE-UT-I-ART57
+  Space:    Office
+  Space ID: 2fiS2IeUTAWgXfk0wYKcY1
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 16.58 m
+  Limit:    15 m
+  Excess:   +1.58 m
+
+ISSUE #3
+  Rule:     SCIE-UT-I-ART57
+  Space:    Office
+  Space ID: 2fiS2IeUTAWgXfk0wYKcYB
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 17.51 m
+  Limit:    15 m
+  Excess:   +2.51 m
+
+ISSUE #4
+  Rule:     SCIE-UT-I-ART57
+  Space:    Meeting Room
+  Space ID: 2fiS2IeUTAWgXfk0wYKcY8
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 18.43 m
+  Limit:    15 m
+  Excess:   +3.43 m
+
+ISSUE #5
+  Rule:     SCIE-UT-I-ART57
+  Space:    Canteen
+  Space ID: 2fiS2IeUTAWgXfk0wYKdLe
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 17.17 m
+  Limit:    15 m
+  Excess:   +2.17 m
+
+ISSUE #6
+  Rule:     SCIE-UT-I-ART57
+  Space:    Meeting Room
+  Space ID: 2fiS2IeUTAWgXfk0wYKdLw
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 23.55 m
+  Limit:    15 m
+  Excess:   +8.55 m
+
+ISSUE #7
+  Rule:     SCIE-UT-I-ART57
+  Space:    Office
+  Space ID: 2fiS2IeUTAWgXfk0wYKdK6
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 26.99 m
+  Limit:    15 m
+  Excess:   +11.99 m
+
+ISSUE #8
+  Rule:     SCIE-UT-I-ART57
+  Space:    Office
+  Space ID: 2fiS2IeUTAWgXfk0wYKdK3
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 30.22 m
+  Limit:    15 m
+  Excess:   +15.22 m
+
+ISSUE #9
+  Rule:     SCIE-UT-I-ART57
+  Space:    Toilet
+  Space ID: 2fiS2IeUTAWgXfk0wYKdK0
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 32.5 m
+  Limit:    15 m
+  Excess:   +17.5 m
+
+ISSUE #10
+  Rule:     SCIE-UT-I-ART57
+  Space:    Toilet
+  Space ID: 2fiS2IeUTAWgXfk0wYKdKD
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 33.45 m
+  Limit:    15 m
+  Excess:   +18.45 m
+
+ISSUE #11
+  Rule:     SCIE-UT-I-ART57
+  Space:    Common Room
+  Space ID: 2fiS2IeUTAWgXfk0wYKdKA
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 36.85 m
+  Limit:    15 m
+  Excess:   +21.85 m
+
+ISSUE #12
+  Rule:     SCIE-UT-I-ART57
+  Space:    Lobby
+  Space ID: 2fiS2IeUTAWgXfk0wYKdGG
+  Risk:     Local risk N/A
+  Path:     dead-end
+  Measured: 22.12 m
+  Limit:    15 m
+  Excess:   +7.12 m
+
+============================================================
+Summary by rule:
+  SCIE-UT-I-ART57 (Art 57 - UT I): 12 violation(s)

@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "generated": "2026-06-28 12:20:28",
+    "regulation": "RT-SCIE (Portaria 1532/2008 + 135/2020)",
+    "total_spaces_checked": 18,
+    "compliant": 6,
+    "violations_found": 12
+  },
+  "topics": [
+    {
+      "guid": "SCIE-0001",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Store Room",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Store Room (ID: 2fiS2IeUTAWgXfk0wYKcZW)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 19.08 m\nMaximum allowed:   15 m\nExcess:            +4.08 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKcZW"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0002",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Office",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Office (ID: 2fiS2IeUTAWgXfk0wYKcY1)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 16.58 m\nMaximum allowed:   15 m\nExcess:            +1.58 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKcY1"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0003",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Office",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Office (ID: 2fiS2IeUTAWgXfk0wYKcYB)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 17.51 m\nMaximum allowed:   15 m\nExcess:            +2.51 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKcYB"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0004",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Meeting Room",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Meeting Room (ID: 2fiS2IeUTAWgXfk0wYKcY8)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 18.43 m\nMaximum allowed:   15 m\nExcess:            +3.43 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKcY8"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0005",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Canteen",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Canteen (ID: 2fiS2IeUTAWgXfk0wYKdLe)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 17.17 m\nMaximum allowed:   15 m\nExcess:            +2.17 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdLe"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0006",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Meeting Room",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Meeting Room (ID: 2fiS2IeUTAWgXfk0wYKdLw)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 23.55 m\nMaximum allowed:   15 m\nExcess:            +8.55 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdLw"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0007",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Office",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Office (ID: 2fiS2IeUTAWgXfk0wYKdK6)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 26.99 m\nMaximum allowed:   15 m\nExcess:            +11.99 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdK6"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0008",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Office",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Office (ID: 2fiS2IeUTAWgXfk0wYKdK3)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 30.22 m\nMaximum allowed:   15 m\nExcess:            +15.22 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdK3"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0009",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Toilet",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Toilet (ID: 2fiS2IeUTAWgXfk0wYKdK0)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 32.5 m\nMaximum allowed:   15 m\nExcess:            +17.5 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdK0"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0010",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Toilet",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Toilet (ID: 2fiS2IeUTAWgXfk0wYKdKD)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 33.45 m\nMaximum allowed:   15 m\nExcess:            +18.45 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdKD"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0011",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Common Room",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Common Room (ID: 2fiS2IeUTAWgXfk0wYKdKA)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 36.85 m\nMaximum allowed:   15 m\nExcess:            +21.85 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdKA"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    },
+    {
+      "guid": "SCIE-0012",
+      "type": "Issue",
+      "status": "Open",
+      "title": "Violation \u2014 Lobby",
+      "description": "Rule: SCIE-UT-I-ART57\nMaximum evacuation distance for residential buildings.\n\nSpace: Lobby (ID: 2fiS2IeUTAWgXfk0wYKdGG)\nLocal risk: N/A\nPath type: dead-end\n\nMeasured distance: 22.12 m\nMaximum allowed:   15 m\nExcess:            +7.12 m",
+      "creation_date": "2026-06-28 12:20:28",
+      "ifc_guids": [
+        "2fiS2IeUTAWgXfk0wYKdGG"
+      ],
+      "labels": [
+        "SCIE-UT-I-ART57"
+      ]
+    }
+  ]
+}

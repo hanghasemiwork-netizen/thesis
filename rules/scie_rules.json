@@ -1,0 +1,9 @@
+{
+  "UT_I": {
+    "id": "SCIE-UT-I-ART57",
+    "article": "Art 57 - UT I",
+    "description": "Maximum evacuation distance for residential buildings.",
+    "dead_end_max_m": 15,
+    "two_exits_max_m": 30
+  }
+}
